@@ -1,0 +1,26 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Task for signy",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Kumar Singh",
+  "license": "MIT",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@hapi/joi": "^15.0.3",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "joi": "^17.4.2",
+    "joi-objectid": "^4.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.14",
+    "s": "^1.0.0"
+  }
+}
